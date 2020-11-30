@@ -1,0 +1,3 @@
+function insertToDocument(document, text){
+
+}
